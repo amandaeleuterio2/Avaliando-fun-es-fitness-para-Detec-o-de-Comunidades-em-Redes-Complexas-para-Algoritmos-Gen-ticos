@@ -1,0 +1,1 @@
+# Avaliando-fun-es-fitness-para-Detec-o-de-Comunidades-em-Redes-Complexas-para-Algoritmos-Gen-ticos
