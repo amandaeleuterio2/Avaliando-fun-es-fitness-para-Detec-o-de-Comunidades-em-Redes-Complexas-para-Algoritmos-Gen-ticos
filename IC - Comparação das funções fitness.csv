@@ -1,0 +1,13 @@
+Graphs, community_score, community_fitness_pc, modularity
+girvan_newman + karate_club_graph, 31.66630963373346, 17.765686274509804,
+girvan_newman + complete_graph, 9.0, 3.0,
+girvan_newman + circular_ladder_graph, 9.444444444444443, 4.666666666666666,
+girvan_newman + dorogovtsev_goltsev_mendes_graph, 19.528344671201815, 19.375,
+girvan_newman + ladder_graph, 10.888888888888888, 5.333333333333333,
+girvan_newman + multilayered_graph, 75.64341434450564, 12.142857142857142,
+label_propagation_communities + karate_club_graph, 31.111111111111114, 2.0, 0.3251150558842867
+label_propagation_communities + complete_graph, 16.0, 5.0, 0.0
+label_propagation_communities + circular_ladder_graph, 9.0, 2.6666666666666665, 0.24
+label_propagation_communities + dorogovtsev_goltsev_mendes_graph, 26.632867742757853, 1.5, 0.3676268861454046
+label_propagation_communities + ladder_graph, 12.0, 3.333333333333333, 0.4140625
+label_propagation_communities + multilayered_graph, 75.64341434450564, 12.142857142857142, 0.41689623507805335
