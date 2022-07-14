@@ -1,4 +1,4 @@
-Graphs, community_score, community_fitness_pc, modularity
+Graphs,community_score,community_fitness_pc,modularity
 girvan_newman + karate_club_graph, 31.66630963373346, 17.765686274509804,
 girvan_newman + complete_graph, 9.0, 3.0,
 girvan_newman + circular_ladder_graph, 9.444444444444443, 4.666666666666666,
